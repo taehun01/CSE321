@@ -1,4 +1,4 @@
-This project was tested at python 3.9.6 enviroment.
+This project was built at python 3.9.6 enviroment.
 
 b_tree.py       : code for B-tree
 b_star_tree.py  : code for B*-tree
