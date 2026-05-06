@@ -6,4 +6,4 @@ b_plus_tree.py  : code for B+-tree
 evaluation.py   : code for evaluation of each trees
 
 To evaluate this project:
-execute evaluation.py
+please execute evaluation.py
